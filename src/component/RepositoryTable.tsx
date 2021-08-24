@@ -158,7 +158,7 @@ function RepositoryTable(){
     return(
         <div className='main-body'>
             <div className='header'>
-                <h1>Github Repositories</h1>
+                <h1>Github Repositories For React</h1>
             </div>
             <SearchInput searchText={searchText} setSearchText={setSearchText} searchData={searchData} />
             <Row justify='center' key='content'>
