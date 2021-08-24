@@ -5,9 +5,9 @@ import {useState, useEffect} from 'react';
 const fetch = require("node-fetch");
 
 
-//this is my github.com token
-//change this to your token
-const token = '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';
+//this is my github.com token, I placed it here bc it will expire soon
+
+const token = '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';
 
 function RepositoryTable(){
     const [searchText, setSearchText] = useState('');  //
