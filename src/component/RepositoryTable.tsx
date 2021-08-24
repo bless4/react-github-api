@@ -7,7 +7,7 @@ const fetch = require("node-fetch");
 
 //this is my github.com token, I placed it here bc it will expire soon
 
-const token = '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';
+const token = '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';
 
 function RepositoryTable(){
     const [searchText, setSearchText] = useState('');  //
