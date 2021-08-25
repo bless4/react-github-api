@@ -5,7 +5,7 @@ import {useState, useEffect} from 'react';
 const fetch = require("node-fetch");
 
 
-//this is my github.com token, I placed it here bc it will expire soon
+// github.com token, Place your github.com token here.
 
 const token = 'YOUR_TOKEN_HERE';
 
